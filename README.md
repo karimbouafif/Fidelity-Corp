@@ -2,6 +2,7 @@
 ##  Getting Started
 
  1-Clone repo
+ <br>
 <code> https://user-images.githubusercontent.com/48072325/100456514-cad8ec00-30c0-11eb-98dc-9c57a5321d00.PNG </code >
 
 ## :heart: Using Clean Architecture
