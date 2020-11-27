@@ -1,4 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/48072325/100456365-877e7d80-30c0-11eb-8582-843a40ec9f0c.png" weight="50" height="100" > Fidelity-Corp
+##  Getting Started
+
+#1 clone project 
 
 ## :heart: Using Clean Architecture
 ## :heart: Project Images
@@ -14,4 +17,4 @@
 <img src="https://user-images.githubusercontent.com/48072325/100457256-00320980-30c2-11eb-9db9-27f1c6edda3f.PNG">
 
 
-##  Getting Started
+
